@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello
 
 Find me on Discord: swankychives
-
+I don't have anything else to add here
 <!--
 **seanstockman/seanstockman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
