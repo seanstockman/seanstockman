@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-- 🌱 I’m currently studying **Bachelor of Design at the University of Melbourne, majoring in Computer and Software Systems, and Digital Infrastructure**
 
+- 🌱 I’m currently studying **Bachelor of Design at the University of Melbourne, majoring in Computer and Software Systems, and Digital Infrastructure**
 - 📫 How to reach me **seanobsto@gmail.com**
 - 💬 Message me on Discord: **swankychives**
 
