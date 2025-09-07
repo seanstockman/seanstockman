@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-
-- 🌱 I’m currently studying **Bachelor of Design at the University of Melbourne, majoring in Computer and Software Systems, and Digital Infrastructure**
-- 📫 How to reach me **seanobsto@gmail.com**
-- 💬 Message me on Discord: **swankychives**
+🌱 I’m currently studying **Bachelor of Design at the University of Melbourne, majoring in Computer and Software Systems, and Digital Infrastructure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    - 📫 Shoot me an email: **seanobsto@gmail.com**
+    - 💬 Message me on Discord: **swankychives**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
