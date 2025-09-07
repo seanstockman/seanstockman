@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
+
 - 📫 Shoot me an email: **seanobsto@gmail.com**
 - 💬 Message me on Discord: **swankychives**
 
