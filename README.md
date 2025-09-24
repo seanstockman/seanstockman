@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-🌱 I’m currently studying **Bachelor of Design at the University of Melbourne, majoring in Computer and Software Systems, and Digital Infrastructure**
+🌱 <strong> I’m currently studying **Bachelor of Design at the University of Melbourne, majoring in Computer and Software Systems, and Digital Infrastructure </strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
